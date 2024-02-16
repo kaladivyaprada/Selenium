@@ -17,7 +17,7 @@ code {
 }
 h1{
   font-family:gabriola;
-  font-size: 80px;
+  font-size: 100px;
   color:rgb(255, 0, 0);
   margin-top:-28px;
    
